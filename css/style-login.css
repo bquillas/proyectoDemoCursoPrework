@@ -106,6 +106,7 @@ body{
     padding: 0px 20px;
     outline: none;
     height: 50px;
+    color: white;
 }
 
 ::placeholder{
